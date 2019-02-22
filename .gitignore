@@ -1,2 +1,4 @@
 HAM10000_images_part1/
 HAM10000_images_part2/
+.ipynp_checkpoints/
+*.jpg
